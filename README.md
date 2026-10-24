@@ -1,12 +1,12 @@
-# Hey, I'm Aayushi! 👋
+# Hey, I'm Aayushi! 
 
-🎓 Second-year Computer Science student
+Second-year Computer Science student
 
-💻 Exploring Data Science, AI/ML, and software development.
+Exploring Data Science, AI/ML, and software development.
 
-🌱 Currently learning programming, SQL, and core CS concepts.
+Currently learning programming, SQL, and core CS concepts.
 
-🚀 Learning by building projects and turning ideas into practical solutions.
+Learning by building projects and turning ideas into practical solutions.
 
 ### Currently Learning
 - Programming and problem-solving
